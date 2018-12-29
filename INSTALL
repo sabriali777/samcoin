@@ -1,0 +1,9 @@
+Building Samcoin
+
+See doc/readme-qt.rst for instructions on building Samcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Samcoin.
+
+See doc/build-*.txt for instructions on building samcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Samcoin.
